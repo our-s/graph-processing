@@ -47,7 +47,7 @@ public class Ep {
     }
 
     static void ler_arquivo() {
-        String nomeArquivo = "/Users/Ep_2/src/cenario1.txt";
+        String nomeArquivo = "/Users/graph-processing/src/cenario1.txt";
         try {
             BufferedReader reader = new BufferedReader(new FileReader(nomeArquivo));
 
@@ -57,7 +57,7 @@ public class Ep {
     }
 
     static void listaAdj() {
-        String nomeArquivo = "/Users/Ep_2/src/cenario1.txt";
+        String nomeArquivo = "/Users/graph-processing/src/cenario1.txt";
 
         BufferedReader reader = null;
         int l = 0;
