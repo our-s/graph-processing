@@ -6,3 +6,6 @@
 
   * Cenário 1: change path for `nomeArquivo = “`...`/graph-processing/src/cenario1.txt”;` and run.
   * Cenário 3: change path for `nomeArquivo = “`...`/graph-processing/src/cenario3.txt”;` and run.
+
+* References:
+  * Robert Sedgewick and Kevin Wayne. *Algorithms*. Addison-Wesley Professional, 4th edition, 2011.
